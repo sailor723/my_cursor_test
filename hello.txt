@@ -1,0 +1,2 @@
+Hello from Cursor!
+This is a test file created and pushed directly to GitHub.
